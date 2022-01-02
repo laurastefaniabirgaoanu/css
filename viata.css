@@ -1,0 +1,23 @@
+body{
+    width: 1200px;
+    height: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+nav{
+    border-right: 2px solid gray;
+    width: 200px;
+    height: 850px;
+    margin-right: auto;
+    display: inline-block;
+    padding: 0 10px 0 0;
+
+}
+main{
+    display: inline-block;
+    width: 900px;
+    height: auto;
+    vertical-align: top;
+    padding: 15px;
+}

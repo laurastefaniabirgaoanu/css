@@ -1,0 +1,38 @@
+table{
+    border: 3px solid red;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th{
+    padding: 2px;
+    }
+    td{
+        padding: 2px;
+    
+    }
+    td, th{
+        border: dotted 3px cyan;
+    }
+    body{
+        width: 1200px;
+        height: 900px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    
+    }
+    nav{
+        border-right: 2px solid gray;
+        width: 200px;
+        height: 850px;
+        margin-right: auto;
+        display: inline-block;
+        padding: 0 10px 0 0;
+
+    }
+    main{
+        display: inline-block;
+        width: 900px;
+        height: auto;
+        vertical-align: top;
+        padding: 15px;
+    }
